@@ -1,0 +1,15 @@
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\bin\Debug\net6.0\ejerciciosClasse.exe
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\bin\Debug\net6.0\ejerciciosClasse.deps.json
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\bin\Debug\net6.0\ejerciciosClasse.runtimeconfig.json
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\bin\Debug\net6.0\ejerciciosClasse.dll
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\bin\Debug\net6.0\ejerciciosClasse.pdb
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\obj\Debug\net6.0\ejerciciosClasse.csproj.AssemblyReference.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\obj\Debug\net6.0\ejerciciosClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\obj\Debug\net6.0\ejerciciosClasse.AssemblyInfoInputs.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\obj\Debug\net6.0\ejerciciosClasse.AssemblyInfo.cs
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\obj\Debug\net6.0\ejerciciosClasse.csproj.CoreCompileInputs.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\obj\Debug\net6.0\ejerciciosClasse.dll
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\obj\Debug\net6.0\refint\ejerciciosClasse.dll
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\obj\Debug\net6.0\ejerciciosClasse.pdb
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\obj\Debug\net6.0\ejerciciosClasse.genruntimeconfig.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Ejercicios\Retos\ejerciciosClasse\obj\Debug\net6.0\ref\ejerciciosClasse.dll
