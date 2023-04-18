@@ -8,7 +8,7 @@ switch (op)
         //Variables
         int mes;
 
-        Console.WriteLine("\nIngrese un numero del 1 al 12 ");
+        Console.WriteLine("\nIngrese un numero del 1 al 12");
         mes = Convert.ToInt32(Console.ReadLine());
 
         switch (mes)
@@ -57,10 +57,10 @@ switch (op)
         break;
     case 2:
         Console.WriteLine("Ejercico No. 2");
-        Console.WriteLine("Porfavor ingrese un numero ");
-        double valor = Convert.ToDouble(Console.ReadLine());
-        double res = (valor / 2) * 2;
-        if (res == valor)
+        Console.WriteLine("Por favor ingrese un numero ");
+        int valor = Convert.ToInt32(Console.ReadLine());
+        int a = valor % 2 ;
+        if (a == 0)
         {
             Console.WriteLine($"El valor ingresado: {valor} es entero ");
         }
@@ -69,6 +69,7 @@ switch (op)
             Console.WriteLine($"El valor ingreasado: {valor} no es entero");
         }
         break;
+
     case 3:
         Console.WriteLine("Ejercicio No.3");
         Console.WriteLine("Ingrese las horas que estuvo el cliente: -> ");
@@ -76,9 +77,9 @@ switch (op)
         Console.WriteLine("Ingrese los minutos que estubo el cliente: -> ");
         int min = Convert.ToInt32(Console.ReadLine());
 
-        if(horas < 1 && min <= 60)
+        if((horas < 1 && min <= 60) || (horas <= 1 && min <0))
         {
-            Console.WriteLine("Su pago es de 5$ ");
+            Console.WriteLine("Su pago es de 5$");
         }
         else if ((horas > 1 && horas <= 2) || (horas == 1 && min < 60 )){
             Console.WriteLine("Su pago es de 15$");
