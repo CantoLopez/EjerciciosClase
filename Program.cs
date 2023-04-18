@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("Elija su ejercico \n1) Ejercicio 1 \n2) Ejercico 2 \n3) Ejercico 3");
+Console.WriteLine("Elija su ejercico \n1) Ejercicio 1 \n2) Ejercico 2 \n3) Ejercico 3" );
 int op = Convert.ToInt32(Console.ReadLine());
 switch (op)
 {
@@ -83,7 +83,12 @@ switch (op)
         else if ((horas > 1 && horas <= 2) || (horas == 1 && min < 60 )){
             Console.WriteLine("Su pago es de 15$");
         }
+        else
+        {
+            Console.WriteLine("El pago es de 40$");
+        }
         break;
+
     default : 
         Console.WriteLine("Error del sistema");
         break;
